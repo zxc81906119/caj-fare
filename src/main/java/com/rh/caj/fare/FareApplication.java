@@ -10,7 +10,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class FareApplication {
 
 	public static void main(String[] args) {
-		
 		SpringApplication.run(FareApplication.class, args);
 	}
 
